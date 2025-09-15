@@ -195,4 +195,4 @@ function update() {
        obstacles[1].x = -1000;
        obstacles[2].x = -1000;
    }
-}
+    }
